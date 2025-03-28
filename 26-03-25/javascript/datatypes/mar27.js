@@ -12,8 +12,12 @@ let P=15
 
 let Q=P
 
-console.log(A)
-console.log(B)
+console.log(P)
+console.log(Q)
+
+//const
+
+const Z=true
 
 //null
 
